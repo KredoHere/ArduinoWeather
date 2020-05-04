@@ -1,0 +1,8 @@
+Hello! This is my bigger project than others that i make :<. It is simple Weather station made for my grandma birthday,
+so she can check soil moisture, light level and more using this simple device. Pls do not copy (u can ask for permission :D).
+
+///////////////////////////////////////////////
+CHANGELOG
+Version 1.00:
+-sending data on serial
+-getting readings from thermistor and photocell
